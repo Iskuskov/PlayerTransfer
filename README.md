@@ -1,4 +1,5 @@
-# HeadHunterSchool homework: 4. JDBC, Hibernate, DI, Logging
+# HeadHunterSchool homework: 
+4. JDBC, Hibernate, DI, Logging
 ---------
 
 ## Футбольные трансферы
